@@ -1,0 +1,16 @@
+# Build / install artifacts
+*.zip
+*.bak
+session.cfg
+*.log
+
+# OS state we don't ship
+aeroos/etc/session.cfg
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
